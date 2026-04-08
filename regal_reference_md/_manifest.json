@@ -1,0 +1,78 @@
+{
+  "source": "https://developer.regal.ai/reference/api",
+  "hub": "https://developer.regal.ai/reference/api",
+  "pages": [
+    {
+      "slug": "active-phone-number-api",
+      "url": "https://developer.regal.ai/reference/active-phone-number-api",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "active-phone-numbers-api",
+      "url": "https://developer.regal.ai/reference/active-phone-numbers-api",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "api",
+      "url": "https://developer.regal.ai/reference/api",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "branded-phone-numbers",
+      "url": "https://developer.regal.ai/reference/branded-phone-numbers",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "campaign-list-api",
+      "url": "https://developer.regal.ai/reference/campaign-list-api",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "delete-branded-phone-number",
+      "url": "https://developer.regal.ai/reference/delete-branded-phone-number",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "disposition-list-api",
+      "url": "https://developer.regal.ai/reference/disposition-list-api",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "faq",
+      "url": "https://developer.regal.ai/reference/faq",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "overview",
+      "url": "https://developer.regal.ai/reference/overview",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "patch-branded-phone-number",
+      "url": "https://developer.regal.ai/reference/patch-branded-phone-number",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "post-branded-phone-number",
+      "url": "https://developer.regal.ai/reference/post-branded-phone-number",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "send-message",
+      "url": "https://developer.regal.ai/reference/send-message",
+      "ok": true,
+      "error": null
+    }
+  ]
+}

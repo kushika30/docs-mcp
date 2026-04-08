@@ -1,0 +1,1510 @@
+{
+  "source": "https://support.regal.ai/hc/en-us",
+  "count": 188,
+  "articles": [
+    {
+      "id": 48820427793051,
+      "slug": "48820427793051-How-to-Take-Over-an-AI-Agent-s-Call",
+      "title": "How to Take Over an AI Agent's Call",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/48820427793051-How-to-Take-Over-an-AI-Agent-s-Call",
+      "file": "48820427793051-How-to-Take-Over-an-AI-Agent-s-Call.md",
+      "ok": true
+    },
+    {
+      "id": 48626814195355,
+      "slug": "48626814195355-How-to-Take-Over-an-AI-Agent-s-Call",
+      "title": "How to Take Over an AI Agent's Call",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/48626814195355-How-to-Take-Over-an-AI-Agent-s-Call",
+      "file": "48626814195355-How-to-Take-Over-an-AI-Agent-s-Call.md",
+      "ok": true
+    },
+    {
+      "id": 46448503155099,
+      "slug": "46448503155099-Regal-App-Navbar-Organization",
+      "title": "Regal App Navbar Organization",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/46448503155099-Regal-App-Navbar-Organization",
+      "file": "46448503155099-Regal-App-Navbar-Organization.md",
+      "ok": true
+    },
+    {
+      "id": 46374696756635,
+      "slug": "46374696756635-How-Do-I-View-and-or-Restore-Previous-Versions-of-a-Journey",
+      "title": "How Do I View and/or Restore Previous Versions of a Journey?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/46374696756635-How-Do-I-View-and-or-Restore-Previous-Versions-of-a-Journey",
+      "file": "46374696756635-How-Do-I-View-and-or-Restore-Previous-Versions-of-a-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 45677618896283,
+      "slug": "45677618896283-Managing-Activity-Statuses",
+      "title": "Managing Activity Statuses",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/45677618896283-Managing-Activity-Statuses",
+      "file": "45677618896283-Managing-Activity-Statuses.md",
+      "ok": true
+    },
+    {
+      "id": 43467535032603,
+      "slug": "43467535032603-Optimize-for-Transfer-Success-with-Transfer-Aware-Dialing",
+      "title": "Optimize for Transfer Success with Transfer-Aware Dialing",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/43467535032603-Optimize-for-Transfer-Success-with-Transfer-Aware-Dialing",
+      "file": "43467535032603-Optimize-for-Transfer-Success-with-Transfer-Aware-Dialing.md",
+      "ok": true
+    },
+    {
+      "id": 43246742686747,
+      "slug": "43246742686747-Call-Compliance-Auto-Announcements",
+      "title": "Call Compliance Auto-Announcements",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/43246742686747-Call-Compliance-Auto-Announcements",
+      "file": "43246742686747-Call-Compliance-Auto-Announcements.md",
+      "ok": true
+    },
+    {
+      "id": 42340708645915,
+      "slug": "42340708645915-How-to-Do-Multi-Attempt-Calling-While-Prioritizing-Fresh-Leads",
+      "title": "How to Do Multi-Attempt Calling While Prioritizing Fresh Leads",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/42340708645915-How-to-Do-Multi-Attempt-Calling-While-Prioritizing-Fresh-Leads",
+      "file": "42340708645915-How-to-Do-Multi-Attempt-Calling-While-Prioritizing-Fresh-Leads.md",
+      "ok": true
+    },
+    {
+      "id": 39276448992283,
+      "slug": "39276448992283-How-can-my-AI-Agent-leave-a-voicemail",
+      "title": "How can my AI Agent leave a voicemail?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/39276448992283-How-can-my-AI-Agent-leave-a-voicemail",
+      "file": "39276448992283-How-can-my-AI-Agent-leave-a-voicemail.md",
+      "ok": true
+    },
+    {
+      "id": 38601583389339,
+      "slug": "38601583389339-How-to-Set-Agent-Channel-Capacity",
+      "title": "How to Set Agent Channel Capacity",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/38601583389339-How-to-Set-Agent-Channel-Capacity",
+      "file": "38601583389339-How-to-Set-Agent-Channel-Capacity.md",
+      "ok": true
+    },
+    {
+      "id": 37895120749851,
+      "slug": "37895120749851-Enable-Local-Presence-to-Boost-Answer-Rates",
+      "title": "Enable Local Presence to Boost Answer Rates",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/37895120749851-Enable-Local-Presence-to-Boost-Answer-Rates",
+      "file": "37895120749851-Enable-Local-Presence-to-Boost-Answer-Rates.md",
+      "ok": true
+    },
+    {
+      "id": 37271367951771,
+      "slug": "37271367951771-Ringless-Voicemail-Drop",
+      "title": "Ringless Voicemail Drop",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/37271367951771-Ringless-Voicemail-Drop",
+      "file": "37271367951771-Ringless-Voicemail-Drop.md",
+      "ok": true
+    },
+    {
+      "id": 37268112068635,
+      "slug": "37268112068635-Custom-Activity-Statuses",
+      "title": "Custom Activity Statuses",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/37268112068635-Custom-Activity-Statuses",
+      "file": "37268112068635-Custom-Activity-Statuses.md",
+      "ok": true
+    },
+    {
+      "id": 36785405287323,
+      "slug": "36785405287323-Add-a-New-Phone-Number-to-Your-Regal-Account",
+      "title": "Add a New Phone Number to Your Regal Account",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36785405287323-Add-a-New-Phone-Number-to-Your-Regal-Account",
+      "file": "36785405287323-Add-a-New-Phone-Number-to-Your-Regal-Account.md",
+      "ok": true
+    },
+    {
+      "id": 36412644264219,
+      "slug": "36412644264219-What-is-Live-Visibility-into-Manager-Actions",
+      "title": "What is Live Visibility into Manager Actions?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36412644264219-What-is-Live-Visibility-into-Manager-Actions",
+      "file": "36412644264219-What-is-Live-Visibility-into-Manager-Actions.md",
+      "ok": true
+    },
+    {
+      "id": 36301791718299,
+      "slug": "36301791718299-What-are-Regal-s-Journey-Webhook-IP-Addresses",
+      "title": "What are Regal's Journey Webhook IP Addresses?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36301791718299-What-are-Regal-s-Journey-Webhook-IP-Addresses",
+      "file": "36301791718299-What-are-Regal-s-Journey-Webhook-IP-Addresses.md",
+      "ok": true
+    },
+    {
+      "id": 36292601175451,
+      "slug": "36292601175451-How-To-Whisper-To-An-Agent-During-A-Live-Call",
+      "title": "How To Whisper To An Agent During A Live Call",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36292601175451-How-To-Whisper-To-An-Agent-During-A-Live-Call",
+      "file": "36292601175451-How-To-Whisper-To-An-Agent-During-A-Live-Call.md",
+      "ok": true
+    },
+    {
+      "id": 36097921072027,
+      "slug": "36097921072027-Managing-Task-Volume-Regal-s-Limits-and-Backlog",
+      "title": "Managing Task Volume: Regal\u2019s Limits and Backlog",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36097921072027-Managing-Task-Volume-Regal-s-Limits-and-Backlog",
+      "file": "36097921072027-Managing-Task-Volume-Regal-s-Limits-and-Backlog.md",
+      "ok": true
+    },
+    {
+      "id": 36066928524443,
+      "slug": "36066928524443-How-to-Troubleshoot-Routing-Rules",
+      "title": "How to Troubleshoot Routing Rules",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36066928524443-How-to-Troubleshoot-Routing-Rules",
+      "file": "36066928524443-How-to-Troubleshoot-Routing-Rules.md",
+      "ok": true
+    },
+    {
+      "id": 36066536698395,
+      "slug": "36066536698395-SMS-Offering-from-Fully-Automated-to-AI-Generated-to-Human-Generated",
+      "title": "SMS Offering: from Fully Automated to AI Generated to Human Generated",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36066536698395-SMS-Offering-from-Fully-Automated-to-AI-Generated-to-Human-Generated",
+      "file": "36066536698395-SMS-Offering-from-Fully-Automated-to-AI-Generated-to-Human-Generated.md",
+      "ok": true
+    },
+    {
+      "id": 35620382342683,
+      "slug": "35620382342683-How-to-Set-Up-Regal-Browser-Notifications",
+      "title": "How to Set Up Regal Browser Notifications",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35620382342683-How-to-Set-Up-Regal-Browser-Notifications",
+      "file": "35620382342683-How-to-Set-Up-Regal-Browser-Notifications.md",
+      "ok": true
+    },
+    {
+      "id": 35104653217691,
+      "slug": "35104653217691-How-to-Set-Up-Call-Logo-Branding",
+      "title": "How to Set Up Call Logo Branding",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35104653217691-How-to-Set-Up-Call-Logo-Branding",
+      "file": "35104653217691-How-to-Set-Up-Call-Logo-Branding.md",
+      "ok": true
+    },
+    {
+      "id": 34916670227227,
+      "slug": "34916670227227-AI-Decision-Node-in-Journey-Builder",
+      "title": "AI Decision Node in Journey Builder",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/34916670227227-AI-Decision-Node-in-Journey-Builder",
+      "file": "34916670227227-AI-Decision-Node-in-Journey-Builder.md",
+      "ok": true
+    },
+    {
+      "id": 34617814517147,
+      "slug": "34617814517147-How-to-Set-Up-a-Predictive-Dialer-Campaign",
+      "title": "How to Set Up a Predictive Dialer Campaign",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/34617814517147-How-to-Set-Up-a-Predictive-Dialer-Campaign",
+      "file": "34617814517147-How-to-Set-Up-a-Predictive-Dialer-Campaign.md",
+      "ok": true
+    },
+    {
+      "id": 34017237459227,
+      "slug": "34017237459227-Understanding-Reporting-Data-in-Regal-Event-Data-Live-Intraday-Metrics-and-Historical-Reporting",
+      "title": "Understanding Reporting Data in Regal: Event Data, Live Intraday Metrics, and Historical Reporting",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/34017237459227-Understanding-Reporting-Data-in-Regal-Event-Data-Live-Intraday-Metrics-and-Historical-Reporting",
+      "file": "34017237459227-Understanding-Reporting-Data-in-Regal-Event-Data-Live-Intraday-Metrics-and-Historical-Reporting.md",
+      "ok": true
+    },
+    {
+      "id": 33139058602011,
+      "slug": "33139058602011-How-to-Delete-Contacts",
+      "title": "How to Delete Contacts",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/33139058602011-How-to-Delete-Contacts",
+      "file": "33139058602011-How-to-Delete-Contacts.md",
+      "ok": true
+    },
+    {
+      "id": 31501098938139,
+      "slug": "31501098938139-How-to-Setup-Custom-Objects",
+      "title": "How to Setup Custom Objects",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/31501098938139-How-to-Setup-Custom-Objects",
+      "file": "31501098938139-How-to-Setup-Custom-Objects.md",
+      "ok": true
+    },
+    {
+      "id": 30977088150555,
+      "slug": "30977088150555-Validating-Phone-Numbers-on-Contact-Creation",
+      "title": "Validating Phone Numbers on Contact Creation",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/30977088150555-Validating-Phone-Numbers-on-Contact-Creation",
+      "file": "30977088150555-Validating-Phone-Numbers-on-Contact-Creation.md",
+      "ok": true
+    },
+    {
+      "id": 29901230349339,
+      "slug": "29901230349339-Why-are-my-SMS-not-getting-delivered",
+      "title": "Why are my SMS not getting delivered?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/29901230349339-Why-are-my-SMS-not-getting-delivered",
+      "file": "29901230349339-Why-are-my-SMS-not-getting-delivered.md",
+      "ok": true
+    },
+    {
+      "id": 28750346534811,
+      "slug": "28750346534811-Account-Level-and-Agent-Specific-Voicemail-Drop-Feature",
+      "title": "Account Level and Agent-Specific Voicemail Drop Feature",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/28750346534811-Account-Level-and-Agent-Specific-Voicemail-Drop-Feature",
+      "file": "28750346534811-Account-Level-and-Agent-Specific-Voicemail-Drop-Feature.md",
+      "ok": true
+    },
+    {
+      "id": 27877846027291,
+      "slug": "27877846027291-How-to-Show-a-Contact-s-Events-in-the-Activity-Feed",
+      "title": "How to Show a Contact's Events in the Activity Feed",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/27877846027291-How-to-Show-a-Contact-s-Events-in-the-Activity-Feed",
+      "file": "27877846027291-How-to-Show-a-Contact-s-Events-in-the-Activity-Feed.md",
+      "ok": true
+    },
+    {
+      "id": 27238944234395,
+      "slug": "27238944234395-Call-Restrictions",
+      "title": "Call Restrictions",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/27238944234395-Call-Restrictions",
+      "file": "27238944234395-Call-Restrictions.md",
+      "ok": true
+    },
+    {
+      "id": 26972530543515,
+      "slug": "26972530543515-How-to-Use-Update-Contact-Node-in-Journeys",
+      "title": "How to Use Update Contact Node in Journeys",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/26972530543515-How-to-Use-Update-Contact-Node-in-Journeys",
+      "file": "26972530543515-How-to-Use-Update-Contact-Node-in-Journeys.md",
+      "ok": true
+    },
+    {
+      "id": 26969551280539,
+      "slug": "26969551280539-How-to-Use-External-Transfer-Phonebook",
+      "title": "How to Use External Transfer Phonebook",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/26969551280539-How-to-Use-External-Transfer-Phonebook",
+      "file": "26969551280539-How-to-Use-External-Transfer-Phonebook.md",
+      "ok": true
+    },
+    {
+      "id": 26912145349147,
+      "slug": "26912145349147-Auto-open-URL-on-Task-Acceptance",
+      "title": "Auto-open URL on Task Acceptance",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/26912145349147-Auto-open-URL-on-Task-Acceptance",
+      "file": "26912145349147-Auto-open-URL-on-Task-Acceptance.md",
+      "ok": true
+    },
+    {
+      "id": 26567843389467,
+      "slug": "26567843389467-How-to-Block-Inbound-Calls-and-SMS-Based-on-Phone-Number",
+      "title": "How to Block Inbound Calls and SMS Based on Phone Number",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/26567843389467-How-to-Block-Inbound-Calls-and-SMS-Based-on-Phone-Number",
+      "file": "26567843389467-How-to-Block-Inbound-Calls-and-SMS-Based-on-Phone-Number.md",
+      "ok": true
+    },
+    {
+      "id": 26265367623835,
+      "slug": "26265367623835-How-to-Add-Task-Attributes-to-Tasks",
+      "title": "How to Add Task Attributes to Tasks",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/26265367623835-How-to-Add-Task-Attributes-to-Tasks",
+      "file": "26265367623835-How-to-Add-Task-Attributes-to-Tasks.md",
+      "ok": true
+    },
+    {
+      "id": 26260846470299,
+      "slug": "26260846470299-How-to-Add-and-Delete-a-Skill-in-Settings",
+      "title": "How to Add and Delete a Skill in Settings",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/26260846470299-How-to-Add-and-Delete-a-Skill-in-Settings",
+      "file": "26260846470299-How-to-Add-and-Delete-a-Skill-in-Settings.md",
+      "ok": true
+    },
+    {
+      "id": 25783004709147,
+      "slug": "25783004709147-How-to-Interact-with-Salesforce-Opportunities-in-Regal",
+      "title": "How to Interact with Salesforce Opportunities in Regal",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/25783004709147-How-to-Interact-with-Salesforce-Opportunities-in-Regal",
+      "file": "25783004709147-How-to-Interact-with-Salesforce-Opportunities-in-Regal.md",
+      "ok": true
+    },
+    {
+      "id": 25780583905563,
+      "slug": "25780583905563-How-to-see-your-Salesforce-Opportunities-in-Regal",
+      "title": "How to see your Salesforce Opportunities in Regal",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/25780583905563-How-to-see-your-Salesforce-Opportunities-in-Regal",
+      "file": "25780583905563-How-to-see-your-Salesforce-Opportunities-in-Regal.md",
+      "ok": true
+    },
+    {
+      "id": 24907583572507,
+      "slug": "24907583572507-How-are-billable-events-measured-in-Regal",
+      "title": "How are billable events measured in Regal?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/24907583572507-How-are-billable-events-measured-in-Regal",
+      "file": "24907583572507-How-are-billable-events-measured-in-Regal.md",
+      "ok": true
+    },
+    {
+      "id": 24879906587803,
+      "slug": "24879906587803-How-to-Cancel-and-Recreate-Existing-Tasks",
+      "title": "How to Cancel and Recreate Existing Tasks",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/24879906587803-How-to-Cancel-and-Recreate-Existing-Tasks",
+      "file": "24879906587803-How-to-Cancel-and-Recreate-Existing-Tasks.md",
+      "ok": true
+    },
+    {
+      "id": 24323184666779,
+      "slug": "24323184666779-Regal-Live-Overview",
+      "title": "Regal Live Overview",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/24323184666779-Regal-Live-Overview",
+      "file": "24323184666779-Regal-Live-Overview.md",
+      "ok": true
+    },
+    {
+      "id": 24276392475931,
+      "slug": "24276392475931-How-to-Locate-a-Task-s-ID",
+      "title": "How to Locate a Task's ID",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/24276392475931-How-to-Locate-a-Task-s-ID",
+      "file": "24276392475931-How-to-Locate-a-Task-s-ID.md",
+      "ok": true
+    },
+    {
+      "id": 23966150527259,
+      "slug": "23966150527259-How-to-Dynamically-Reference-the-First-Name-of-the-Last-Handling-Agent-in-Campaigns",
+      "title": "How to Dynamically Reference the First Name of the Last Handling Agent in Campaigns",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/23966150527259-How-to-Dynamically-Reference-the-First-Name-of-the-Last-Handling-Agent-in-Campaigns",
+      "file": "23966150527259-How-to-Dynamically-Reference-the-First-Name-of-the-Last-Handling-Agent-in-Campaigns.md",
+      "ok": true
+    },
+    {
+      "id": 23151204496283,
+      "slug": "23151204496283-How-to-Configure-IVR-in-Regal",
+      "title": "How to Configure IVR in Regal",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/23151204496283-How-to-Configure-IVR-in-Regal",
+      "file": "23151204496283-How-to-Configure-IVR-in-Regal.md",
+      "ok": true
+    },
+    {
+      "id": 22549353073179,
+      "slug": "22549353073179-How-to-Create-a-Progressive-Dialer-Campaign",
+      "title": "How to Create a Progressive Dialer Campaign",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/22549353073179-How-to-Create-a-Progressive-Dialer-Campaign",
+      "file": "22549353073179-How-to-Create-a-Progressive-Dialer-Campaign.md",
+      "ok": true
+    },
+    {
+      "id": 22109501863579,
+      "slug": "22109501863579-How-does-Regal-Voice-Determine-a-Contact-s-Time-Zone",
+      "title": "How does Regal Voice Determine a Contact's Time Zone?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/22109501863579-How-does-Regal-Voice-Determine-a-Contact-s-Time-Zone",
+      "file": "22109501863579-How-does-Regal-Voice-Determine-a-Contact-s-Time-Zone.md",
+      "ok": true
+    },
+    {
+      "id": 22003571943835,
+      "slug": "22003571943835-How-to-Write-Task-Routing-Rule-Expressions",
+      "title": "How to Write Task Routing Rule Expressions",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/22003571943835-How-to-Write-Task-Routing-Rule-Expressions",
+      "file": "22003571943835-How-to-Write-Task-Routing-Rule-Expressions.md",
+      "ok": true
+    },
+    {
+      "id": 21757847996187,
+      "slug": "21757847996187-Default-Regal-Reporting-Dashboards-Upcoming-Scheduled-Callbacks-Dashboard",
+      "title": "Default Regal Reporting Dashboards: Upcoming Scheduled Callbacks Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21757847996187-Default-Regal-Reporting-Dashboards-Upcoming-Scheduled-Callbacks-Dashboard",
+      "file": "21757847996187-Default-Regal-Reporting-Dashboards-Upcoming-Scheduled-Callbacks-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21732189611675,
+      "slug": "21732189611675-Default-Regal-Reporting-Dashboards-Experiments-Dashboard",
+      "title": "Default Regal Reporting Dashboards: Experiments Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21732189611675-Default-Regal-Reporting-Dashboards-Experiments-Dashboard",
+      "file": "21732189611675-Default-Regal-Reporting-Dashboards-Experiments-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21703305974043,
+      "slug": "21703305974043-Default-Regal-Reporting-Dashboards-Tasks-Messages-Detail-Dashboard",
+      "title": "Default Regal Reporting Dashboards: Tasks & Messages Detail Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21703305974043-Default-Regal-Reporting-Dashboards-Tasks-Messages-Detail-Dashboard",
+      "file": "21703305974043-Default-Regal-Reporting-Dashboards-Tasks-Messages-Detail-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21694454435227,
+      "slug": "21694454435227-Default-Regal-Reporting-Dashboards-Inbound-Calls-Dashboard",
+      "title": "Default Regal Reporting Dashboards: Inbound Calls Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21694454435227-Default-Regal-Reporting-Dashboards-Inbound-Calls-Dashboard",
+      "file": "21694454435227-Default-Regal-Reporting-Dashboards-Inbound-Calls-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21602595155867,
+      "slug": "21602595155867-Glossary-of-Regal-Reporting-Terms",
+      "title": "Glossary of Regal Reporting Terms",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21602595155867-Glossary-of-Regal-Reporting-Terms",
+      "file": "21602595155867-Glossary-of-Regal-Reporting-Terms.md",
+      "ok": true
+    },
+    {
+      "id": 21571278577307,
+      "slug": "21571278577307-Default-Regal-Reporting-Dashboards-SMS-Conversations-Dashboard",
+      "title": "Default Regal Reporting Dashboards: SMS Conversations Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21571278577307-Default-Regal-Reporting-Dashboards-SMS-Conversations-Dashboard",
+      "file": "21571278577307-Default-Regal-Reporting-Dashboards-SMS-Conversations-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21564512928027,
+      "slug": "21564512928027-Default-Regal-Reporting-Dashboards-Campaigns-Dashboard",
+      "title": "Default Regal Reporting Dashboards: Campaigns Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21564512928027-Default-Regal-Reporting-Dashboards-Campaigns-Dashboard",
+      "file": "21564512928027-Default-Regal-Reporting-Dashboards-Campaigns-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21537142767643,
+      "slug": "21537142767643-How-to-Manage-Multiple-Teams-in-Regal",
+      "title": "How to Manage Multiple Teams in Regal",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21537142767643-How-to-Manage-Multiple-Teams-in-Regal",
+      "file": "21537142767643-How-to-Manage-Multiple-Teams-in-Regal.md",
+      "ok": true
+    },
+    {
+      "id": 21517741686939,
+      "slug": "21517741686939-Default-Regal-Reporting-Dashboards-Audience-Dashboard",
+      "title": "Default Regal Reporting Dashboards: Audience Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21517741686939-Default-Regal-Reporting-Dashboards-Audience-Dashboard",
+      "file": "21517741686939-Default-Regal-Reporting-Dashboards-Audience-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21506687829915,
+      "slug": "21506687829915-Default-Regal-Reporting-Dashboards-Overall-Performance-Dashboard",
+      "title": "Default Regal Reporting Dashboards: Overall Performance Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21506687829915-Default-Regal-Reporting-Dashboards-Overall-Performance-Dashboard",
+      "file": "21506687829915-Default-Regal-Reporting-Dashboards-Overall-Performance-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21439884727835,
+      "slug": "21439884727835-Default-Regal-Reporting-Dashboards-Agent-Activity-Dashboard",
+      "title": "Default Regal Reporting Dashboards: Agent Activity Dashboard",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21439884727835-Default-Regal-Reporting-Dashboards-Agent-Activity-Dashboard",
+      "file": "21439884727835-Default-Regal-Reporting-Dashboards-Agent-Activity-Dashboard.md",
+      "ok": true
+    },
+    {
+      "id": 21246218602907,
+      "slug": "21246218602907-How-to-Compose-a-Message-with-Templates",
+      "title": "How to Compose a Message with Templates",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21246218602907-How-to-Compose-a-Message-with-Templates",
+      "file": "21246218602907-How-to-Compose-a-Message-with-Templates.md",
+      "ok": true
+    },
+    {
+      "id": 21244458574491,
+      "slug": "21244458574491-How-to-Create-Message-Templates",
+      "title": "How to Create Message Templates",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21244458574491-How-to-Create-Message-Templates",
+      "file": "21244458574491-How-to-Create-Message-Templates.md",
+      "ok": true
+    },
+    {
+      "id": 21219335877147,
+      "slug": "21219335877147-What-Happened-To-The-Task-Understanding-the-Task-Lifecycle",
+      "title": "What Happened To The Task? Understanding the Task Lifecycle",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21219335877147-What-Happened-To-The-Task-Understanding-the-Task-Lifecycle",
+      "file": "21219335877147-What-Happened-To-The-Task-Understanding-the-Task-Lifecycle.md",
+      "ok": true
+    },
+    {
+      "id": 21211030981531,
+      "slug": "21211030981531-How-to-Listen-to-Voicemails-Left-by-Customers",
+      "title": "How to Listen to Voicemails Left by Customers",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21211030981531-How-to-Listen-to-Voicemails-Left-by-Customers",
+      "file": "21211030981531-How-to-Listen-to-Voicemails-Left-by-Customers.md",
+      "ok": true
+    },
+    {
+      "id": 21208404726811,
+      "slug": "21208404726811-How-To-View-and-Listen-to-Customer-Voicemails",
+      "title": "How To View and Listen to Customer Voicemails",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/21208404726811-How-To-View-and-Listen-to-Customer-Voicemails",
+      "file": "21208404726811-How-To-View-and-Listen-to-Customer-Voicemails.md",
+      "ok": true
+    },
+    {
+      "id": 20852025297691,
+      "slug": "20852025297691-How-to-Create-Custom-Tasks-for-Agents-through-Journeys",
+      "title": "How to Create Custom Tasks for Agents through Journeys",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/20852025297691-How-to-Create-Custom-Tasks-for-Agents-through-Journeys",
+      "file": "20852025297691-How-to-Create-Custom-Tasks-for-Agents-through-Journeys.md",
+      "ok": true
+    },
+    {
+      "id": 20391260895131,
+      "slug": "20391260895131-How-to-Use-Custom-Contact-Lists",
+      "title": "How to Use Custom Contact Lists",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/20391260895131-How-to-Use-Custom-Contact-Lists",
+      "file": "20391260895131-How-to-Use-Custom-Contact-Lists.md",
+      "ok": true
+    },
+    {
+      "id": 19856872590363,
+      "slug": "19856872590363-How-to-Create-Agent-SMS-Task-through-Journeys-and-Campaigns",
+      "title": "How to Create Agent SMS Task through Journeys and Campaigns",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/19856872590363-How-to-Create-Agent-SMS-Task-through-Journeys-and-Campaigns",
+      "file": "19856872590363-How-to-Create-Agent-SMS-Task-through-Journeys-and-Campaigns.md",
+      "ok": true
+    },
+    {
+      "id": 19642138189723,
+      "slug": "19642138189723-How-To-Troubleshoot-Unworked-Tasks-in-The-Queue",
+      "title": "How To Troubleshoot Unworked Tasks in The Queue",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/19642138189723-How-To-Troubleshoot-Unworked-Tasks-in-The-Queue",
+      "file": "19642138189723-How-To-Troubleshoot-Unworked-Tasks-in-The-Queue.md",
+      "ok": true
+    },
+    {
+      "id": 19342492902683,
+      "slug": "19342492902683--How-to-Build-an-Application-Nurture-Journey",
+      "title": "How to Build an Application Nurture Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/19342492902683--How-to-Build-an-Application-Nurture-Journey",
+      "file": "19342492902683--How-to-Build-an-Application-Nurture-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 19340065342875,
+      "slug": "19340065342875-How-to-Create-Your-First-New-Lead-Journey",
+      "title": "How to Create Your First New Lead Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/19340065342875-How-to-Create-Your-First-New-Lead-Journey",
+      "file": "19340065342875-How-to-Create-Your-First-New-Lead-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 19006820183707,
+      "slug": "19006820183707-How-to-Send-Simple-Appointment-Reminders-and-Reduce-Costly-No-Shows",
+      "title": "How to Send Simple Appointment Reminders and Reduce Costly No Shows",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/19006820183707-How-to-Send-Simple-Appointment-Reminders-and-Reduce-Costly-No-Shows",
+      "file": "19006820183707-How-to-Send-Simple-Appointment-Reminders-and-Reduce-Costly-No-Shows.md",
+      "ok": true
+    },
+    {
+      "id": 18788837463323,
+      "slug": "18788837463323-Default-Conversation-Fields-under-Regal-Voice-Properties",
+      "title": "Default Conversation Fields under Regal Voice Properties",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/18788837463323-Default-Conversation-Fields-under-Regal-Voice-Properties",
+      "file": "18788837463323-Default-Conversation-Fields-under-Regal-Voice-Properties.md",
+      "ok": true
+    },
+    {
+      "id": 18747177205147,
+      "slug": "18747177205147-How-to-Create-a-Re-engagement-Journey-SMS",
+      "title": "How to Create a Re-engagement Journey (SMS)",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/18747177205147-How-to-Create-a-Re-engagement-Journey-SMS",
+      "file": "18747177205147-How-to-Create-a-Re-engagement-Journey-SMS.md",
+      "ok": true
+    },
+    {
+      "id": 18747115171611,
+      "slug": "18747115171611-How-to-Create-an-Abandoned-Cart-Journey",
+      "title": "How to Create an Abandoned Cart Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/18747115171611-How-to-Create-an-Abandoned-Cart-Journey",
+      "file": "18747115171611-How-to-Create-an-Abandoned-Cart-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 18166277720347,
+      "slug": "18166277720347-How-to-Use-Saved-Views",
+      "title": "How to Use Saved Views",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/18166277720347-How-to-Use-Saved-Views",
+      "file": "18166277720347-How-to-Use-Saved-Views.md",
+      "ok": true
+    },
+    {
+      "id": 18050672891547,
+      "slug": "18050672891547-How-to-Use-Journey-Tags",
+      "title": "How to Use Journey Tags",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/18050672891547-How-to-Use-Journey-Tags",
+      "file": "18050672891547-How-to-Use-Journey-Tags.md",
+      "ok": true
+    },
+    {
+      "id": 17764972852123,
+      "slug": "17764972852123-How-To-Create-Edit-and-Delete-Teams",
+      "title": "How To Create, Edit, and Delete Teams",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/17764972852123-How-To-Create-Edit-and-Delete-Teams",
+      "file": "17764972852123-How-To-Create-Edit-and-Delete-Teams.md",
+      "ok": true
+    },
+    {
+      "id": 17441971927067,
+      "slug": "17441971927067-Creating-an-Advanced-Calendly-Call-Scheduled-Journey",
+      "title": "Creating an Advanced Calendly Call Scheduled Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/17441971927067-Creating-an-Advanced-Calendly-Call-Scheduled-Journey",
+      "file": "17441971927067-Creating-an-Advanced-Calendly-Call-Scheduled-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 17399564541467,
+      "slug": "17399564541467-Creating-a-Basic-Calendly-Call-Scheduled-Journey",
+      "title": "Creating a Basic Calendly Call Scheduled Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/17399564541467-Creating-a-Basic-Calendly-Call-Scheduled-Journey",
+      "file": "17399564541467-Creating-a-Basic-Calendly-Call-Scheduled-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 17373816189211,
+      "slug": "17373816189211-How-to-Use-Timestamp-Functions-in-Journey-Webhooks",
+      "title": "How to Use Timestamp Functions in Journey Webhooks",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/17373816189211-How-to-Use-Timestamp-Functions-in-Journey-Webhooks",
+      "file": "17373816189211-How-to-Use-Timestamp-Functions-in-Journey-Webhooks.md",
+      "ok": true
+    },
+    {
+      "id": 17259619778331,
+      "slug": "17259619778331-Reviewing-Call-Recordings-Transcripts",
+      "title": "Reviewing Call Recordings & Transcripts",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/17259619778331-Reviewing-Call-Recordings-Transcripts",
+      "file": "17259619778331-Reviewing-Call-Recordings-Transcripts.md",
+      "ok": true
+    },
+    {
+      "id": 17134995581339,
+      "slug": "17134995581339-How-to-Add-More-Than-One-Phone-Number-or-Email-Address-to-a-Contact",
+      "title": "How to Add More Than One Phone Number or Email Address to a Contact",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/17134995581339-How-to-Add-More-Than-One-Phone-Number-or-Email-Address-to-a-Contact",
+      "file": "17134995581339-How-to-Add-More-Than-One-Phone-Number-or-Email-Address-to-a-Contact.md",
+      "ok": true
+    },
+    {
+      "id": 16898964611739,
+      "slug": "16898964611739-How-to-Work-with-Email",
+      "title": "How to Work with Email",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/16898964611739-How-to-Work-with-Email",
+      "file": "16898964611739-How-to-Work-with-Email.md",
+      "ok": true
+    },
+    {
+      "id": 15931535681691,
+      "slug": "15931535681691-How-to-Reference-Journey-Webhook-Data-in-Highly-Nested-or-List-Heavy-Payloads",
+      "title": "How to Reference Journey Webhook Data in Highly Nested or List-Heavy Payloads",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/15931535681691-How-to-Reference-Journey-Webhook-Data-in-Highly-Nested-or-List-Heavy-Payloads",
+      "file": "15931535681691-How-to-Reference-Journey-Webhook-Data-in-Highly-Nested-or-List-Heavy-Payloads.md",
+      "ok": true
+    },
+    {
+      "id": 15178608209435,
+      "slug": "15178608209435-How-to-Set-Up-an-SMS-Blast",
+      "title": "How to Set Up an SMS Blast",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/15178608209435-How-to-Set-Up-an-SMS-Blast",
+      "file": "15178608209435-How-to-Set-Up-an-SMS-Blast.md",
+      "ok": true
+    },
+    {
+      "id": 15126668379163,
+      "slug": "15126668379163-How-To-Barge-Into-A-Live-Call",
+      "title": "How To Barge Into A Live Call",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/15126668379163-How-To-Barge-Into-A-Live-Call",
+      "file": "15126668379163-How-To-Barge-Into-A-Live-Call.md",
+      "ok": true
+    },
+    {
+      "id": 15126148057371,
+      "slug": "15126148057371-How-To-Listen-To-A-Live-Call",
+      "title": "How To Listen To A Live Call",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/15126148057371-How-To-Listen-To-A-Live-Call",
+      "file": "15126148057371-How-To-Listen-To-A-Live-Call.md",
+      "ok": true
+    },
+    {
+      "id": 15083953712283,
+      "slug": "15083953712283-How-to-Add-Edit-and-Delete-Users",
+      "title": "How to Add, Edit, and Delete Users",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/15083953712283-How-to-Add-Edit-and-Delete-Users",
+      "file": "15083953712283-How-to-Add-Edit-and-Delete-Users.md",
+      "ok": true
+    },
+    {
+      "id": 14987900394523,
+      "slug": "14987900394523-How-to-create-and-save-a-new-Dynamic-Segment-using-Segment-Builder",
+      "title": "How to create and save a new Dynamic Segment using Segment Builder?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/14987900394523-How-to-create-and-save-a-new-Dynamic-Segment-using-Segment-Builder",
+      "file": "14987900394523-How-to-create-and-save-a-new-Dynamic-Segment-using-Segment-Builder.md",
+      "ok": true
+    },
+    {
+      "id": 14981647938459,
+      "slug": "14981647938459-How-to-Set-Up-an-Out-of-Office-Autoresponder-in-Regal-for-Specific-Agents",
+      "title": "How to Set Up an Out-of-Office Autoresponder in Regal for Specific Agents",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/14981647938459-How-to-Set-Up-an-Out-of-Office-Autoresponder-in-Regal-for-Specific-Agents",
+      "file": "14981647938459-How-to-Set-Up-an-Out-of-Office-Autoresponder-in-Regal-for-Specific-Agents.md",
+      "ok": true
+    },
+    {
+      "id": 14656782669851,
+      "slug": "14656782669851-How-to-Find-Call-Recordings",
+      "title": "How to Find Call Recordings",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/14656782669851-How-to-Find-Call-Recordings",
+      "file": "14656782669851-How-to-Find-Call-Recordings.md",
+      "ok": true
+    },
+    {
+      "id": 14520423760539,
+      "slug": "14520423760539-How-to-Build-A-Custom-Report",
+      "title": "How to Build A Custom Report",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/14520423760539-How-to-Build-A-Custom-Report",
+      "file": "14520423760539-How-to-Build-A-Custom-Report.md",
+      "ok": true
+    },
+    {
+      "id": 14234385349147,
+      "slug": "14234385349147-International-Calling",
+      "title": "International Calling",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/14234385349147-International-Calling",
+      "file": "14234385349147-International-Calling.md",
+      "ok": true
+    },
+    {
+      "id": 14234234136475,
+      "slug": "14234234136475-Gryphon-Check",
+      "title": "Gryphon Check",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/14234234136475-Gryphon-Check",
+      "file": "14234234136475-Gryphon-Check.md",
+      "ok": true
+    },
+    {
+      "id": 14157351216027,
+      "slug": "14157351216027-How-to-Use-Dynamic-Reference-in-Conditional-Node",
+      "title": "How to Use Dynamic Reference in Conditional Node",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/14157351216027-How-to-Use-Dynamic-Reference-in-Conditional-Node",
+      "file": "14157351216027-How-to-Use-Dynamic-Reference-in-Conditional-Node.md",
+      "ok": true
+    },
+    {
+      "id": 14014467280539,
+      "slug": "14014467280539-How-to-Subscribe-to-Regal-io-s-Status-Updates",
+      "title": "How to Subscribe to Regal.io's Status Updates",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/14014467280539-How-to-Subscribe-to-Regal-io-s-Status-Updates",
+      "file": "14014467280539-How-to-Subscribe-to-Regal-io-s-Status-Updates.md",
+      "ok": true
+    },
+    {
+      "id": 13758106504603,
+      "slug": "13758106504603-Journey-Template-Nurture-High-Intent-Leads-Immediately-with-Journey-Builder-and-Smart-Routing",
+      "title": "Journey Template: Nurture High Intent Leads Immediately with Journey Builder and Smart Routing",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/13758106504603-Journey-Template-Nurture-High-Intent-Leads-Immediately-with-Journey-Builder-and-Smart-Routing",
+      "file": "13758106504603-Journey-Template-Nurture-High-Intent-Leads-Immediately-with-Journey-Builder-and-Smart-Routing.md",
+      "ok": true
+    },
+    {
+      "id": 13452194934555,
+      "slug": "13452194934555-How-to-Manually-Reassign-a-Task-to-a-Different-Agent",
+      "title": "How to Manually Reassign a Task to a Different Agent",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/13452194934555-How-to-Manually-Reassign-a-Task-to-a-Different-Agent",
+      "file": "13452194934555-How-to-Manually-Reassign-a-Task-to-a-Different-Agent.md",
+      "ok": true
+    },
+    {
+      "id": 12815108163483,
+      "slug": "12815108163483-How-to-Trigger-A-Journey",
+      "title": "How to Trigger A Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/12815108163483-How-to-Trigger-A-Journey",
+      "file": "12815108163483-How-to-Trigger-A-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 12785249502619,
+      "slug": "12785249502619-How-to-Track-and-Manage-Contacts-You-Own-with-My-Contacts",
+      "title": "How to Track and Manage Contacts You Own with My Contacts",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/12785249502619-How-to-Track-and-Manage-Contacts-You-Own-with-My-Contacts",
+      "file": "12785249502619-How-to-Track-and-Manage-Contacts-You-Own-with-My-Contacts.md",
+      "ok": true
+    },
+    {
+      "id": 12493341501723,
+      "slug": "12493341501723-How-To-Create-A-Scheduled-Journey-with-Segments",
+      "title": "How To Create A Scheduled Journey with Segments",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/12493341501723-How-To-Create-A-Scheduled-Journey-with-Segments",
+      "file": "12493341501723-How-To-Create-A-Scheduled-Journey-with-Segments.md",
+      "ok": true
+    },
+    {
+      "id": 12343651567259,
+      "slug": "12343651567259-Billing-Invoicing-Questions",
+      "title": "Billing & Invoicing Questions",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/12343651567259-Billing-Invoicing-Questions",
+      "file": "12343651567259-Billing-Invoicing-Questions.md",
+      "ok": true
+    },
+    {
+      "id": 12181758397723,
+      "slug": "12181758397723-How-to-Configure-Task-Routing-Rules",
+      "title": "How to Configure Task Routing Rules",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/12181758397723-How-to-Configure-Task-Routing-Rules",
+      "file": "12181758397723-How-to-Configure-Task-Routing-Rules.md",
+      "ok": true
+    },
+    {
+      "id": 11629901426331,
+      "slug": "11629901426331-How-to-Add-Branded-Caller-ID-and-Remove-Carrier-Spam-Filtering-on-Outbound-Calls",
+      "title": "How to Add Branded Caller ID and Remove Carrier Spam Filtering on Outbound Calls",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/11629901426331-How-to-Add-Branded-Caller-ID-and-Remove-Carrier-Spam-Filtering-on-Outbound-Calls",
+      "file": "11629901426331-How-to-Add-Branded-Caller-ID-and-Remove-Carrier-Spam-Filtering-on-Outbound-Calls.md",
+      "ok": true
+    },
+    {
+      "id": 11628109052315,
+      "slug": "11628109052315-How-to-Allow-Agents-to-See-Edit-Certain-Contact-Attributes",
+      "title": "How to Allow Agents to See/Edit Certain Contact Attributes",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/11628109052315-How-to-Allow-Agents-to-See-Edit-Certain-Contact-Attributes",
+      "file": "11628109052315-How-to-Allow-Agents-to-See-Edit-Certain-Contact-Attributes.md",
+      "ok": true
+    },
+    {
+      "id": 11627151723931,
+      "slug": "11627151723931-Campaign-Efficiency-How-to-Add-Pre-recorded-Voicemail-Recordings",
+      "title": "Campaign Efficiency: How to Add Pre-recorded Voicemail Recordings",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/11627151723931-Campaign-Efficiency-How-to-Add-Pre-recorded-Voicemail-Recordings",
+      "file": "11627151723931-Campaign-Efficiency-How-to-Add-Pre-recorded-Voicemail-Recordings.md",
+      "ok": true
+    },
+    {
+      "id": 11626063278619,
+      "slug": "11626063278619-Error-Alert-Messages",
+      "title": "Error & Alert Messages",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/11626063278619-Error-Alert-Messages",
+      "file": "11626063278619-Error-Alert-Messages.md",
+      "ok": true
+    },
+    {
+      "id": 10332350047131,
+      "slug": "10332350047131-How-to-Configure-Task-Preferences-Auto-Complete-Auto-Accept-Auto-Open-URL",
+      "title": "How to Configure Task Preferences (Auto-Complete, Auto-Accept, Auto-Open URL)",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/10332350047131-How-to-Configure-Task-Preferences-Auto-Complete-Auto-Accept-Auto-Open-URL",
+      "file": "10332350047131-How-to-Configure-Task-Preferences-Auto-Complete-Auto-Accept-Auto-Open-URL.md",
+      "ok": true
+    },
+    {
+      "id": 9328198296475,
+      "slug": "9328198296475-How-to-See-Which-Journeys-a-Campaign-is-Used-In",
+      "title": "How to See Which Journeys a Campaign is Used In",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/9328198296475-How-to-See-Which-Journeys-a-Campaign-is-Used-In",
+      "file": "9328198296475-How-to-See-Which-Journeys-a-Campaign-is-Used-In.md",
+      "ok": true
+    },
+    {
+      "id": 8816935462171,
+      "slug": "8816935462171-How-to-Stop-Journey-Executions",
+      "title": "How to Stop Journey Executions",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/8816935462171-How-to-Stop-Journey-Executions",
+      "file": "8816935462171-How-to-Stop-Journey-Executions.md",
+      "ok": true
+    },
+    {
+      "id": 8816643339931,
+      "slug": "8816643339931-How-to-Monitor-a-Live-Journey",
+      "title": "How to Monitor a Live Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/8816643339931-How-to-Monitor-a-Live-Journey",
+      "file": "8816643339931-How-to-Monitor-a-Live-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 8323049978395,
+      "slug": "8323049978395-How-to-Hard-Refresh",
+      "title": "How to Hard Refresh",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/8323049978395-How-to-Hard-Refresh",
+      "file": "8323049978395-How-to-Hard-Refresh.md",
+      "ok": true
+    },
+    {
+      "id": 6771680286619,
+      "slug": "6771680286619-Adding-Updating-Contacts-Through-a-Manual-CSV-Upload",
+      "title": "Adding/Updating Contacts Through a Manual CSV Upload",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/6771680286619-Adding-Updating-Contacts-Through-a-Manual-CSV-Upload",
+      "file": "6771680286619-Adding-Updating-Contacts-Through-a-Manual-CSV-Upload.md",
+      "ok": true
+    },
+    {
+      "id": 6744950315035,
+      "slug": "6744950315035-Hardware-and-network-requirements",
+      "title": "Hardware and network requirements",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/6744950315035-Hardware-and-network-requirements",
+      "file": "6744950315035-Hardware-and-network-requirements.md",
+      "ok": true
+    },
+    {
+      "id": 5890512064411,
+      "slug": "5890512064411-How-to-Configure-Your-Admin-Settings",
+      "title": "How to Configure Your Admin Settings",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5890512064411-How-to-Configure-Your-Admin-Settings",
+      "file": "5890512064411-How-to-Configure-Your-Admin-Settings.md",
+      "ok": true
+    },
+    {
+      "id": 5725425028763,
+      "slug": "5725425028763-Reporting-Dashboards-Overview",
+      "title": "Reporting Dashboards Overview",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5725425028763-Reporting-Dashboards-Overview",
+      "file": "5725425028763-Reporting-Dashboards-Overview.md",
+      "ok": true
+    },
+    {
+      "id": 5725458229531,
+      "slug": "5725458229531-Integration-Guides-API-Docs",
+      "title": "Integration Guides & API Docs",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5725458229531-Integration-Guides-API-Docs",
+      "file": "5725458229531-Integration-Guides-API-Docs.md",
+      "ok": true
+    },
+    {
+      "id": 5725455000219,
+      "slug": "5725455000219-How-to-View-Recent-Activity",
+      "title": "How to View Recent Activity",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5725455000219-How-to-View-Recent-Activity",
+      "file": "5725455000219-How-to-View-Recent-Activity.md",
+      "ok": true
+    },
+    {
+      "id": 5721590813723,
+      "slug": "5721590813723-What-are-Journeys-and-How-Do-I-Use-Them",
+      "title": "What are Journeys and How Do I Use Them?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5721590813723-What-are-Journeys-and-How-Do-I-Use-Them",
+      "file": "5721590813723-What-are-Journeys-and-How-Do-I-Use-Them.md",
+      "ok": true
+    },
+    {
+      "id": 5721078516891,
+      "slug": "5721078516891-What-are-Campaigns",
+      "title": "What are Campaigns?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5721078516891-What-are-Campaigns",
+      "file": "5721078516891-What-are-Campaigns.md",
+      "ok": true
+    },
+    {
+      "id": 4684956258971,
+      "slug": "4684956258971-Welcome-to-Regal",
+      "title": "Welcome to Regal",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4684956258971-Welcome-to-Regal",
+      "file": "4684956258971-Welcome-to-Regal.md",
+      "ok": true
+    },
+    {
+      "id": 47582569073051,
+      "slug": "47582569073051-What-is-CNAM",
+      "title": "What is CNAM?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/47582569073051-What-is-CNAM",
+      "file": "47582569073051-What-is-CNAM.md",
+      "ok": true
+    },
+    {
+      "id": 35711384384411,
+      "slug": "35711384384411-Getting-Started-with-AI-Agents",
+      "title": "Getting Started with AI Agents",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35711384384411-Getting-Started-with-AI-Agents",
+      "file": "35711384384411-Getting-Started-with-AI-Agents.md",
+      "ok": true
+    },
+    {
+      "id": 17259719183643,
+      "slug": "17259719183643-Creating-Using-Moments",
+      "title": "Creating & Using Moments",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/17259719183643-Creating-Using-Moments",
+      "file": "17259719183643-Creating-Using-Moments.md",
+      "ok": true
+    },
+    {
+      "id": 7959246554907,
+      "slug": "7959246554907-How-to-Add-Edit-Dispositions-Tags-and-Cancelation-Reasons",
+      "title": "How to Add/Edit Dispositions, Tags, and Cancelation Reasons",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/7959246554907-How-to-Add-Edit-Dispositions-Tags-and-Cancelation-Reasons",
+      "file": "7959246554907-How-to-Add-Edit-Dispositions-Tags-and-Cancelation-Reasons.md",
+      "ok": true
+    },
+    {
+      "id": 5721674470939,
+      "slug": "5721674470939-How-to-Create-a-Journey",
+      "title": "How to Create a Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5721674470939-How-to-Create-a-Journey",
+      "file": "5721674470939-How-to-Create-a-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 5721270757275,
+      "slug": "5721270757275-What-are-Phone-Call-Campaigns",
+      "title": "What are Phone Call Campaigns?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5721270757275-What-are-Phone-Call-Campaigns",
+      "file": "5721270757275-What-are-Phone-Call-Campaigns.md",
+      "ok": true
+    },
+    {
+      "id": 4708129068443,
+      "slug": "4708129068443-What-is-Regal",
+      "title": "What is Regal?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4708129068443-What-is-Regal",
+      "file": "4708129068443-What-is-Regal.md",
+      "ok": true
+    },
+    {
+      "id": 47581057249563,
+      "slug": "47581057249563-What-is-STIR-SHAKEN",
+      "title": "What is STIR/SHAKEN?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/47581057249563-What-is-STIR-SHAKEN",
+      "file": "47581057249563-What-is-STIR-SHAKEN.md",
+      "ok": true
+    },
+    {
+      "id": 36646480285339,
+      "slug": "36646480285339-Setting-Up-An-SMS-Agent",
+      "title": "Setting Up An SMS Agent",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36646480285339-Setting-Up-An-SMS-Agent",
+      "file": "36646480285339-Setting-Up-An-SMS-Agent.md",
+      "ok": true
+    },
+    {
+      "id": 20240568532635,
+      "slug": "20240568532635-Creating-Using-QA-Scorecards",
+      "title": "Creating & Using QA Scorecards",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/20240568532635-Creating-Using-QA-Scorecards",
+      "file": "20240568532635-Creating-Using-QA-Scorecards.md",
+      "ok": true
+    },
+    {
+      "id": 5886495317659,
+      "slug": "5886495317659-How-to-Add-Agent-Skills",
+      "title": "How to Add Agent Skills",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5886495317659-How-to-Add-Agent-Skills",
+      "file": "5886495317659-How-to-Add-Agent-Skills.md",
+      "ok": true
+    },
+    {
+      "id": 5721570540699,
+      "slug": "5721570540699-What-are-SMS-Campaigns",
+      "title": "What are SMS Campaigns?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5721570540699-What-are-SMS-Campaigns",
+      "file": "5721570540699-What-are-SMS-Campaigns.md",
+      "ok": true
+    },
+    {
+      "id": 4466197655579,
+      "slug": "4466197655579-How-To-Set-Up-My-Device-to-Use-Regal",
+      "title": "How To Set Up My Device to Use Regal",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4466197655579-How-To-Set-Up-My-Device-to-Use-Regal",
+      "file": "4466197655579-How-To-Set-Up-My-Device-to-Use-Regal.md",
+      "ok": true
+    },
+    {
+      "id": 47587669665691,
+      "slug": "47587669665691-A2P-Registration-Required-Registration-for-SMS-Messaging-through-10DLC-Numbers",
+      "title": "A2P Registration: Required Registration for SMS Messaging through 10DLC Numbers",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/47587669665691-A2P-Registration-Required-Registration-for-SMS-Messaging-through-10DLC-Numbers",
+      "file": "47587669665691-A2P-Registration-Required-Registration-for-SMS-Messaging-through-10DLC-Numbers.md",
+      "ok": true
+    },
+    {
+      "id": 35462414263451,
+      "slug": "35462414263451-What-LLM-Should-I-Choose-for-My-AI-Agent",
+      "title": "What LLM Should I Choose for My AI Agent?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35462414263451-What-LLM-Should-I-Choose-for-My-AI-Agent",
+      "file": "35462414263451-What-LLM-Should-I-Choose-for-My-AI-Agent.md",
+      "ok": true
+    },
+    {
+      "id": 20527945181979,
+      "slug": "20527945181979-Reviewing-Conversation-Insights-with-Conversation-Intelligence",
+      "title": "Reviewing Conversation Insights with Conversation Intelligence",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/20527945181979-Reviewing-Conversation-Insights-with-Conversation-Intelligence",
+      "file": "20527945181979-Reviewing-Conversation-Insights-with-Conversation-Intelligence.md",
+      "ok": true
+    },
+    {
+      "id": 5887167183771,
+      "slug": "5887167183771-How-to-Add-an-Agent-to-a-Specific-Team",
+      "title": "How to Add an Agent to a Specific Team",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5887167183771-How-to-Add-an-Agent-to-a-Specific-Team",
+      "file": "5887167183771-How-to-Add-an-Agent-to-a-Specific-Team.md",
+      "ok": true
+    },
+    {
+      "id": 5721886910107,
+      "slug": "5721886910107-How-to-Use-Delay-Nodes-in-Journeys",
+      "title": "How to Use Delay Nodes in Journeys",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5721886910107-How-to-Use-Delay-Nodes-in-Journeys",
+      "file": "5721886910107-How-to-Use-Delay-Nodes-in-Journeys.md",
+      "ok": true
+    },
+    {
+      "id": 4689702368667,
+      "slug": "4689702368667-Agent-Guide-The-Agent-Desktop",
+      "title": "Agent Guide: The Agent Desktop",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4689702368667-Agent-Guide-The-Agent-Desktop",
+      "file": "4689702368667-Agent-Guide-The-Agent-Desktop.md",
+      "ok": true
+    },
+    {
+      "id": 35533544523035,
+      "slug": "35533544523035-What-Voice-Should-I-Choose-for-My-AI-Phone-Agent",
+      "title": "What Voice Should I Choose for My AI Phone Agent?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35533544523035-What-Voice-Should-I-Choose-for-My-AI-Phone-Agent",
+      "file": "35533544523035-What-Voice-Should-I-Choose-for-My-AI-Phone-Agent.md",
+      "ok": true
+    },
+    {
+      "id": 18787264920987,
+      "slug": "18787264920987-AI-Call-Summaries",
+      "title": "AI Call Summaries",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/18787264920987-AI-Call-Summaries",
+      "file": "18787264920987-AI-Call-Summaries.md",
+      "ok": true
+    },
+    {
+      "id": 5721895940379,
+      "slug": "5721895940379-How-to-Filter-or-Path-Contacts-using-a-Conditional-Match-in-a-Journey",
+      "title": "How to Filter or Path Contacts using a Conditional Match in a Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5721895940379-How-to-Filter-or-Path-Contacts-using-a-Conditional-Match-in-a-Journey",
+      "file": "5721895940379-How-to-Filter-or-Path-Contacts-using-a-Conditional-Match-in-a-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 5234317697307,
+      "slug": "5234317697307-How-to-Monitor-Agent-Performance-and-Productivity",
+      "title": "How to Monitor Agent Performance and Productivity",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5234317697307-How-to-Monitor-Agent-Performance-and-Productivity",
+      "file": "5234317697307-How-to-Monitor-Agent-Performance-and-Productivity.md",
+      "ok": true
+    },
+    {
+      "id": 4712058474139,
+      "slug": "4712058474139-Regal-Lexicon-Terms-You-Should-Know",
+      "title": "Regal Lexicon (Terms You Should Know)",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4712058474139-Regal-Lexicon-Terms-You-Should-Know",
+      "file": "4712058474139-Regal-Lexicon-Terms-You-Should-Know.md",
+      "ok": true
+    },
+    {
+      "id": 35535095936027,
+      "slug": "35535095936027-What-Do-the-Different-Voice-Settings-Mean-for-AI-Phone-Agents",
+      "title": "What\u00a0Do\u00a0the\u00a0Different\u00a0Voice\u00a0Settings\u00a0Mean for AI Phone Agents?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35535095936027-What-Do-the-Different-Voice-Settings-Mean-for-AI-Phone-Agents",
+      "file": "35535095936027-What-Do-the-Different-Voice-Settings-Mean-for-AI-Phone-Agents.md",
+      "ok": true
+    },
+    {
+      "id": 25929027686555,
+      "slug": "25929027686555-How-To-Use-AI-Scorecards",
+      "title": "How To Use AI Scorecards",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/25929027686555-How-To-Use-AI-Scorecards",
+      "file": "25929027686555-How-To-Use-AI-Scorecards.md",
+      "ok": true
+    },
+    {
+      "id": 5888861044891,
+      "slug": "5888861044891-How-To-View-Manage-and-Create-Task-Queues",
+      "title": "How To View, Manage, and Create Task Queues",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5888861044891-How-To-View-Manage-and-Create-Task-Queues",
+      "file": "5888861044891-How-To-View-Manage-and-Create-Task-Queues.md",
+      "ok": true
+    },
+    {
+      "id": 5724713528219,
+      "slug": "5724713528219-How-to-Run-an-A-B-Test-in-a-Journey",
+      "title": "How to Run an A/B Test in a Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5724713528219-How-to-Run-an-A-B-Test-in-a-Journey",
+      "file": "5724713528219-How-to-Run-an-A-B-Test-in-a-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 4689276662171,
+      "slug": "4689276662171-Logging-in-to-Your-Regal-Account",
+      "title": "Logging in to Your Regal Account",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4689276662171-Logging-in-to-Your-Regal-Account",
+      "file": "4689276662171-Logging-in-to-Your-Regal-Account.md",
+      "ok": true
+    },
+    {
+      "id": 36240466712859,
+      "slug": "36240466712859-How-to-Improve-AI-Voice-Agent-Pronunciation-of-Key-Terms",
+      "title": "How to Improve AI Voice Agent Pronunciation of Key Terms",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36240466712859-How-to-Improve-AI-Voice-Agent-Pronunciation-of-Key-Terms",
+      "file": "36240466712859-How-to-Improve-AI-Voice-Agent-Pronunciation-of-Key-Terms.md",
+      "ok": true
+    },
+    {
+      "id": 5889686446363,
+      "slug": "5889686446363-How-to-View-and-Manage-Tasks",
+      "title": "How to View and Manage Tasks",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5889686446363-How-to-View-and-Manage-Tasks",
+      "file": "5889686446363-How-to-View-and-Manage-Tasks.md",
+      "ok": true
+    },
+    {
+      "id": 5724727170715,
+      "slug": "5724727170715-How-to-Send-Automated-SMS-Messages",
+      "title": "How to Send Automated SMS Messages",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5724727170715-How-to-Send-Automated-SMS-Messages",
+      "file": "5724727170715-How-to-Send-Automated-SMS-Messages.md",
+      "ok": true
+    },
+    {
+      "id": 4717487899291,
+      "slug": "4717487899291-Changing-Your-Activity-Status",
+      "title": "Changing Your Activity Status",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4717487899291-Changing-Your-Activity-Status",
+      "file": "4717487899291-Changing-Your-Activity-Status.md",
+      "ok": true
+    },
+    {
+      "id": 35708527329435,
+      "slug": "35708527329435-How-Do-I-Make-Sure-My-AI-Agent-Doesn-t-Hallucinate-Responses",
+      "title": "How Do I Make Sure My AI Agent Doesn't Hallucinate Responses?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35708527329435-How-Do-I-Make-Sure-My-AI-Agent-Doesn-t-Hallucinate-Responses",
+      "file": "35708527329435-How-Do-I-Make-Sure-My-AI-Agent-Doesn-t-Hallucinate-Responses.md",
+      "ok": true
+    },
+    {
+      "id": 5724740591131,
+      "slug": "5724740591131-How-to-Create-Outbound-Call-Tasks",
+      "title": "How to Create Outbound Call Tasks",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5724740591131-How-to-Create-Outbound-Call-Tasks",
+      "file": "5724740591131-How-to-Create-Outbound-Call-Tasks.md",
+      "ok": true
+    },
+    {
+      "id": 4693573394587,
+      "slug": "4693573394587-How-to-Edit-a-Contact-s-Profile",
+      "title": "How to Edit a Contact's Profile",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4693573394587-How-to-Edit-a-Contact-s-Profile",
+      "file": "4693573394587-How-to-Edit-a-Contact-s-Profile.md",
+      "ok": true
+    },
+    {
+      "id": 35712428218011,
+      "slug": "35712428218011-How-to-Incorporate-Contact-Attribute-Variables-in-AI-Agent-Prompts",
+      "title": "How to Incorporate Contact Attribute Variables in AI Agent Prompts?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35712428218011-How-to-Incorporate-Contact-Attribute-Variables-in-AI-Agent-Prompts",
+      "file": "35712428218011-How-to-Incorporate-Contact-Attribute-Variables-in-AI-Agent-Prompts.md",
+      "ok": true
+    },
+    {
+      "id": 5889609534363,
+      "slug": "5889609534363-How-to-Add-and-Adjust-IVR-Options",
+      "title": "How to Add and Adjust IVR Options",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5889609534363-How-to-Add-and-Adjust-IVR-Options",
+      "file": "5889609534363-How-to-Add-and-Adjust-IVR-Options.md",
+      "ok": true
+    },
+    {
+      "id": 5724757111963,
+      "slug": "5724757111963-How-to-Remove-Cancel-Tasks-in-a-Journey",
+      "title": "How to Remove/Cancel Tasks in a Journey",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5724757111963-How-to-Remove-Cancel-Tasks-in-a-Journey",
+      "file": "5724757111963-How-to-Remove-Cancel-Tasks-in-a-Journey.md",
+      "ok": true
+    },
+    {
+      "id": 4845317122587,
+      "slug": "4845317122587-What-exactly-are-tasks",
+      "title": "What exactly are tasks?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4845317122587-What-exactly-are-tasks",
+      "file": "4845317122587-What-exactly-are-tasks.md",
+      "ok": true
+    },
+    {
+      "id": 35534158992027,
+      "slug": "35534158992027-When-Should-I-Use-a-Knowledge-Base",
+      "title": "When Should I Use a Knowledge Base?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35534158992027-When-Should-I-Use-a-Knowledge-Base",
+      "file": "35534158992027-When-Should-I-Use-a-Knowledge-Base.md",
+      "ok": true
+    },
+    {
+      "id": 5890366751259,
+      "slug": "5890366751259-How-To-Look-Up-a-Contact",
+      "title": "How To Look Up a Contact",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5890366751259-How-To-Look-Up-a-Contact",
+      "file": "5890366751259-How-To-Look-Up-a-Contact.md",
+      "ok": true
+    },
+    {
+      "id": 5725272620187,
+      "slug": "5725272620187-How-to-Use-Journey-Webhooks",
+      "title": "How to Use Journey Webhooks",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5725272620187-How-to-Use-Journey-Webhooks",
+      "file": "5725272620187-How-to-Use-Journey-Webhooks.md",
+      "ok": true
+    },
+    {
+      "id": 4919352550811,
+      "slug": "4919352550811-How-to-Work-on-Your-Tasks",
+      "title": "How to Work on Your Tasks",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4919352550811-How-to-Work-on-Your-Tasks",
+      "file": "4919352550811-How-to-Work-on-Your-Tasks.md",
+      "ok": true
+    },
+    {
+      "id": 36855700282139,
+      "slug": "36855700282139-How-Do-I-Upload-a-Knowledge-Base-for-My-AI-Agent",
+      "title": "How Do I Upload a Knowledge Base for My AI Agent?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/36855700282139-How-Do-I-Upload-a-Knowledge-Base-for-My-AI-Agent",
+      "file": "36855700282139-How-Do-I-Upload-a-Knowledge-Base-for-My-AI-Agent.md",
+      "ok": true
+    },
+    {
+      "id": 4921991111451,
+      "slug": "4921991111451-How-to-Accept-A-Task",
+      "title": "How to Accept A Task",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4921991111451-How-to-Accept-A-Task",
+      "file": "4921991111451-How-to-Accept-A-Task.md",
+      "ok": true
+    },
+    {
+      "id": 35712717350811,
+      "slug": "35712717350811-How-Do-I-Invoke-Agent-Actions",
+      "title": "How Do I Invoke Agent Actions?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35712717350811-How-Do-I-Invoke-Agent-Actions",
+      "file": "35712717350811-How-Do-I-Invoke-Agent-Actions.md",
+      "ok": true
+    },
+    {
+      "id": 5041609342619,
+      "slug": "5041609342619-How-to-Snooze-a-Task",
+      "title": "How to Snooze a Task",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5041609342619-How-to-Snooze-a-Task",
+      "file": "5041609342619-How-to-Snooze-a-Task.md",
+      "ok": true
+    },
+    {
+      "id": 35618579908251,
+      "slug": "35618579908251-How-to-Get-an-AI-Agent-to-Transfer-a-Call",
+      "title": "How to Get an AI Agent to Transfer a Call",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35618579908251-How-to-Get-an-AI-Agent-to-Transfer-a-Call",
+      "file": "35618579908251-How-to-Get-an-AI-Agent-to-Transfer-a-Call.md",
+      "ok": true
+    },
+    {
+      "id": 5042791653019,
+      "slug": "5042791653019-How-to-Remove-a-Task",
+      "title": "How to Remove a Task",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5042791653019-How-to-Remove-a-Task",
+      "file": "5042791653019-How-to-Remove-a-Task.md",
+      "ok": true
+    },
+    {
+      "id": 35621588022171,
+      "slug": "35621588022171-How-Do-I-Create-a-Custom-Action-for-My-AI-Agent-to-Take",
+      "title": "How Do I Create a Custom Action for My AI Agent to Take?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35621588022171-How-Do-I-Create-a-Custom-Action-for-My-AI-Agent-to-Take",
+      "file": "35621588022171-How-Do-I-Create-a-Custom-Action-for-My-AI-Agent-to-Take.md",
+      "ok": true
+    },
+    {
+      "id": 5044978282779,
+      "slug": "5044978282779-How-to-Complete-a-Task",
+      "title": "How to Complete a Task",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5044978282779-How-to-Complete-a-Task",
+      "file": "5044978282779-How-to-Complete-a-Task.md",
+      "ok": true
+    },
+    {
+      "id": 35534441894555,
+      "slug": "35534441894555-How-Should-I-Incorporate-a-Pricing-Sheet-for-My-AI-Agent-to-Use",
+      "title": "How Should I Incorporate a Pricing Sheet for My AI Agent to Use?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/35534441894555-How-Should-I-Incorporate-a-Pricing-Sheet-for-My-AI-Agent-to-Use",
+      "file": "35534441894555-How-Should-I-Incorporate-a-Pricing-Sheet-for-My-AI-Agent-to-Use.md",
+      "ok": true
+    },
+    {
+      "id": 5047034471707,
+      "slug": "5047034471707-What-does-Multitasking-look-like",
+      "title": "What does Multitasking look like?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5047034471707-What-does-Multitasking-look-like",
+      "file": "5047034471707-What-does-Multitasking-look-like.md",
+      "ok": true
+    },
+    {
+      "id": 5047386281371,
+      "slug": "5047386281371-How-to-Make-A-Call",
+      "title": "How to Make A Call",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5047386281371-How-to-Make-A-Call",
+      "file": "5047386281371-How-to-Make-A-Call.md",
+      "ok": true
+    },
+    {
+      "id": 5047493226011,
+      "slug": "5047493226011-How-to-Receive-Calls",
+      "title": "How to Receive Calls",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5047493226011-How-to-Receive-Calls",
+      "file": "5047493226011-How-to-Receive-Calls.md",
+      "ok": true
+    },
+    {
+      "id": 5048599143707,
+      "slug": "5048599143707-How-to-Transfer-a-Call",
+      "title": "How to Transfer a Call",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5048599143707-How-to-Transfer-a-Call",
+      "file": "5048599143707-How-to-Transfer-a-Call.md",
+      "ok": true
+    },
+    {
+      "id": 5051309442203,
+      "slug": "5051309442203-How-to-Leave-a-Voicemail-Message",
+      "title": "How to Leave a Voicemail Message",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5051309442203-How-to-Leave-a-Voicemail-Message",
+      "file": "5051309442203-How-to-Leave-a-Voicemail-Message.md",
+      "ok": true
+    },
+    {
+      "id": 5051700099483,
+      "slug": "5051700099483-How-to-Pause-Call-Recordings",
+      "title": "How to Pause Call Recordings",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5051700099483-How-to-Pause-Call-Recordings",
+      "file": "5051700099483-How-to-Pause-Call-Recordings.md",
+      "ok": true
+    },
+    {
+      "id": 5051918584091,
+      "slug": "5051918584091-What-are-ASAP-Callbacks",
+      "title": "What are ASAP Callbacks?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5051918584091-What-are-ASAP-Callbacks",
+      "file": "5051918584091-What-are-ASAP-Callbacks.md",
+      "ok": true
+    },
+    {
+      "id": 5052061863707,
+      "slug": "5052061863707-How-to-Schedule-a-Callback-or-Create-a-Reminder-Task",
+      "title": "How to Schedule a Callback or Create a Reminder Task",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5052061863707-How-to-Schedule-a-Callback-or-Create-a-Reminder-Task",
+      "file": "5052061863707-How-to-Schedule-a-Callback-or-Create-a-Reminder-Task.md",
+      "ok": true
+    },
+    {
+      "id": 5052285733531,
+      "slug": "5052285733531-How-to-Work-with-SMS-Tasks",
+      "title": "How to Work with SMS Tasks",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/5052285733531-How-to-Work-with-SMS-Tasks",
+      "file": "5052285733531-How-to-Work-with-SMS-Tasks.md",
+      "ok": true
+    },
+    {
+      "id": 4472069844379,
+      "slug": "4472069844379-How-to-connect-to-Regal-Support",
+      "title": "How to connect to Regal Support",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4472069844379-How-to-connect-to-Regal-Support",
+      "file": "4472069844379-How-to-connect-to-Regal-Support.md",
+      "ok": true
+    },
+    {
+      "id": 4466269907483,
+      "slug": "4466269907483-Five-Tips-for-Using-Regal-Effectively",
+      "title": "Five Tips for Using Regal Effectively",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4466269907483-Five-Tips-for-Using-Regal-Effectively",
+      "file": "4466269907483-Five-Tips-for-Using-Regal-Effectively.md",
+      "ok": true
+    },
+    {
+      "id": 4466469337755,
+      "slug": "4466469337755-Are-your-Calls-Dropping-or-Delayed-and-Silent",
+      "title": "Are your Calls Dropping, or Delayed and Silent?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4466469337755-Are-your-Calls-Dropping-or-Delayed-and-Silent",
+      "file": "4466469337755-Are-your-Calls-Dropping-or-Delayed-and-Silent.md",
+      "ok": true
+    },
+    {
+      "id": 4472011526811,
+      "slug": "4472011526811-Why-am-I-not-getting-New-Tasks",
+      "title": "Why am I not getting New Tasks?",
+      "html_url": "https://support.regal.ai/hc/en-us/articles/4472011526811-Why-am-I-not-getting-New-Tasks",
+      "file": "4472011526811-Why-am-I-not-getting-New-Tasks.md",
+      "ok": true
+    }
+  ]
+}

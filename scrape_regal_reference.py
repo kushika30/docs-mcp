@@ -1,0 +1,100 @@
+#!/usr/bin/env python3
+"""
+Fetch all https://developer.regal.ai/reference/* API reference pages and save Markdown under ./regal_reference_md/.
+Discovery: scrape href="/reference/..." from the reference hub HTML (seed: /reference/api).
+"""
+
+from __future__ import annotations
+
+import json
+import re
+import time
+import urllib.error
+import urllib.request
+from pathlib import Path
+
+from bs4 import BeautifulSoup
+from markdownify import markdownify as html_to_md
+
+BASE = "https://developer.regal.ai"
+SEED_URL = f"{BASE}/reference/api"
+OUT_DIR = Path(__file__).resolve().parent / "regal_reference_md"
+USER_AGENT = "Mozilla/5.0 (compatible; RegalReferenceMirror/1.0; +local scrape)"
+SLEEP_SEC = 0.35
+
+
+def fetch(url: str) -> str:
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"},
+    )
+    with urllib.request.urlopen(req, timeout=90) as resp:
+        return resp.read().decode("utf-8", errors="replace")
+
+
+def discover_slugs() -> list[str]:
+    html = fetch(SEED_URL)
+    slugs = sorted(set(re.findall(r'href="/reference/([a-z0-9-]+)"', html)))
+    if not slugs:
+        raise RuntimeError("No /reference/ slugs found — reference HTML may have changed.")
+    return slugs
+
+
+def article_html_to_markdown(fragment: str) -> str:
+    soup = BeautifulSoup(fragment, "lxml")
+    for node in soup.select(".suggestEdits, .rm-SuggestEdit, script, style"):
+        node.decompose()
+    body = soup.select_one("section.content-body") or soup
+    header = soup.select_one("header#content-head h1")
+    title = header.get_text(strip=True) if header else ""
+    md_body = html_to_md(str(body), heading_style="ATX", bullets="-")
+    md_body = re.sub(r"\n{3,}", "\n\n", md_body).strip()
+    front = (
+        "---\n"
+        f'source: {json.dumps("https://developer.regal.ai/reference", ensure_ascii=False)}\n'
+        "---\n\n"
+    )
+    if title:
+        return front + f"# {title}\n\n{md_body}\n"
+    return front + md_body + "\n"
+
+
+def scrape_page(slug: str) -> tuple[str, str | None]:
+    url = f"{BASE}/reference/{slug}"
+    try:
+        html = fetch(url)
+    except urllib.error.HTTPError as e:
+        return "", f"{e.code} {e.reason}"
+    m = re.search(r"<article[^>]*>(.*?)</article>", html, re.DOTALL | re.IGNORECASE)
+    if not m:
+        return "", "no <article> in response"
+    md = article_html_to_markdown(m.group(1))
+    return md, None
+
+
+def main() -> None:
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    slugs = discover_slugs()
+    manifest: list[dict] = []
+
+    for i, slug in enumerate(slugs):
+        path = OUT_DIR / f"{slug}.md"
+        print(f"[{i + 1}/{len(slugs)}] {slug} …", flush=True)
+        md, err = scrape_page(slug)
+        manifest.append({"slug": slug, "url": f"{BASE}/reference/{slug}", "ok": err is None, "error": err})
+        if err:
+            print(f"  skip: {err}")
+        else:
+            path.write_text(md, encoding="utf-8")
+        time.sleep(SLEEP_SEC)
+
+    (OUT_DIR / "_manifest.json").write_text(
+        json.dumps({"source": SEED_URL, "hub": "https://developer.regal.ai/reference/api", "pages": manifest}, indent=2),
+        encoding="utf-8",
+    )
+    ok = sum(1 for m in manifest if m["ok"])
+    print(f"Done. Wrote {ok}/{len(slugs)} files to {OUT_DIR}")
+
+
+if __name__ == "__main__":
+    main()

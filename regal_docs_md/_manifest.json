@@ -1,0 +1,653 @@
+{
+  "source": "https://developer.regal.ai/docs/",
+  "pages": [
+    {
+      "slug": "8x8",
+      "url": "https://developer.regal.ai/docs/8x8",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "abstrakt",
+      "url": "https://developer.regal.ai/docs/abstrakt",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "action-sequences",
+      "url": "https://developer.regal.ai/docs/action-sequences",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "agent-actions",
+      "url": "https://developer.regal.ai/docs/agent-actions",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "agent-prompt",
+      "url": "https://developer.regal.ai/docs/agent-prompt",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "ai-call-dispositions",
+      "url": "https://developer.regal.ai/docs/ai-call-dispositions",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "amazon-s3",
+      "url": "https://developer.regal.ai/docs/amazon-s3",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "assembled",
+      "url": "https://developer.regal.ai/docs/assembled",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "authenticate-contact",
+      "url": "https://developer.regal.ai/docs/authenticate-contact",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "azure-sso",
+      "url": "https://developer.regal.ai/docs/azure-sso",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "balto",
+      "url": "https://developer.regal.ai/docs/balto",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "batch-dialing",
+      "url": "https://developer.regal.ai/docs/batch-dialing",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "beta-knowledge-base-coverage-insights",
+      "url": "https://developer.regal.ai/docs/beta-knowledge-base-coverage-insights",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "branching-function",
+      "url": "https://developer.regal.ai/docs/branching-function",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "braze",
+      "url": "https://developer.regal.ai/docs/braze",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "cal",
+      "url": "https://developer.regal.ai/docs/cal",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "calendly",
+      "url": "https://developer.regal.ai/docs/calendly",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "callrail",
+      "url": "https://developer.regal.ai/docs/callrail",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "chrome-extension",
+      "url": "https://developer.regal.ai/docs/chrome-extension",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "concurrency",
+      "url": "https://developer.regal.ai/docs/concurrency",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "conversation-insights-dashboard",
+      "url": "https://developer.regal.ai/docs/conversation-insights-dashboard",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "copilot-continuous-agent-improvement",
+      "url": "https://developer.regal.ai/docs/copilot-continuous-agent-improvement",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "custom-actions",
+      "url": "https://developer.regal.ai/docs/custom-actions",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "custom-ai-analysis",
+      "url": "https://developer.regal.ai/docs/custom-ai-analysis",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "customerio",
+      "url": "https://developer.regal.ai/docs/customerio",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "deploy-chat-agent",
+      "url": "https://developer.regal.ai/docs/deploy-chat-agent",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "deploy-inbound-voice-agent",
+      "url": "https://developer.regal.ai/docs/deploy-inbound-voice-agent",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "deploy-sms-agent",
+      "url": "https://developer.regal.ai/docs/deploy-sms-agent",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "deploying-outbound-voice-agents",
+      "url": "https://developer.regal.ai/docs/deploying-outbound-voice-agents",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "digioh",
+      "url": "https://developer.regal.ai/docs/digioh",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "dynamic-variables",
+      "url": "https://developer.regal.ai/docs/dynamic-variables",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "email-reports",
+      "url": "https://developer.regal.ai/docs/email-reports",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "embed-regal-anywhere",
+      "url": "https://developer.regal.ai/docs/embed-regal-anywhere",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "end-call",
+      "url": "https://developer.regal.ai/docs/end-call",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "five9",
+      "url": "https://developer.regal.ai/docs/five9",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "five9-in",
+      "url": "https://developer.regal.ai/docs/five9-in",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "freshdesk",
+      "url": "https://developer.regal.ai/docs/freshdesk",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "gather-datetime",
+      "url": "https://developer.regal.ai/docs/gather-datetime",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "gmail",
+      "url": "https://developer.regal.ai/docs/gmail",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "gongio",
+      "url": "https://developer.regal.ai/docs/gongio",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "google-sso",
+      "url": "https://developer.regal.ai/docs/google-sso",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "gryphon",
+      "url": "https://developer.regal.ai/docs/gryphon",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "hightouch",
+      "url": "https://developer.regal.ai/docs/hightouch",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "how-to-enable-regal-dialer-widget-in-salesforce",
+      "url": "https://developer.regal.ai/docs/how-to-enable-regal-dialer-widget-in-salesforce",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "hubspot",
+      "url": "https://developer.regal.ai/docs/hubspot",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "identity-resolution-settings",
+      "url": "https://developer.regal.ai/docs/identity-resolution-settings",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "improveit360",
+      "url": "https://developer.regal.ai/docs/improveit360",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "increase-outbound-answer-rates",
+      "url": "https://developer.regal.ai/docs/increase-outbound-answer-rates",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "intro-to-regal-data-model",
+      "url": "https://developer.regal.ai/docs/intro-to-regal-data-model",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "iterable",
+      "url": "https://developer.regal.ai/docs/iterable",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "kindlyai",
+      "url": "https://developer.regal.ai/docs/kindlyai",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "klaviyo",
+      "url": "https://developer.regal.ai/docs/klaviyo",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "knowledge-base",
+      "url": "https://developer.regal.ai/docs/knowledge-base",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "kustomer",
+      "url": "https://developer.regal.ai/docs/kustomer",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "kustomer-1",
+      "url": "https://developer.regal.ai/docs/kustomer-1",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "languages",
+      "url": "https://developer.regal.ai/docs/languages",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "llm-models",
+      "url": "https://developer.regal.ai/docs/llm-models",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "make-cal-dot-com-booking",
+      "url": "https://developer.regal.ai/docs/make-cal-dot-com-booking",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "marketo",
+      "url": "https://developer.regal.ai/docs/marketo",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "microsoft-dynamics-365-data-in",
+      "url": "https://developer.regal.ai/docs/microsoft-dynamics-365-data-in",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "microsoft-teams",
+      "url": "https://developer.regal.ai/docs/microsoft-teams",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "mparticle",
+      "url": "https://developer.regal.ai/docs/mparticle",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "multi-state-agent-prompt",
+      "url": "https://developer.regal.ai/docs/multi-state-agent-prompt",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "navigate-ios-call-screening",
+      "url": "https://developer.regal.ai/docs/navigate-ios-call-screening",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "okta-scim",
+      "url": "https://developer.regal.ai/docs/okta-scim",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "okta-sso",
+      "url": "https://developer.regal.ai/docs/okta-sso",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "outbound-call-routing",
+      "url": "https://developer.regal.ai/docs/outbound-call-routing",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "outboundani",
+      "url": "https://developer.regal.ai/docs/outboundani",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "plan-your-implementation",
+      "url": "https://developer.regal.ai/docs/plan-your-implementation",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "planning-a-new-ai-voice-agent-use-case",
+      "url": "https://developer.regal.ai/docs/planning-a-new-ai-voice-agent-use-case",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "post-call-transcripts",
+      "url": "https://developer.regal.ai/docs/post-call-transcripts",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "press-digit",
+      "url": "https://developer.regal.ai/docs/press-digit",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "pricing-inventory-service-lookup",
+      "url": "https://developer.regal.ai/docs/pricing-inventory-service-lookup",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "prompting-best-practices",
+      "url": "https://developer.regal.ai/docs/prompting-best-practices",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "reporting-webhooks",
+      "url": "https://developer.regal.ai/docs/reporting-webhooks",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "retool",
+      "url": "https://developer.regal.ai/docs/retool",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "salesforce",
+      "url": "https://developer.regal.ai/docs/salesforce",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "saving-and-updating-agents",
+      "url": "https://developer.regal.ai/docs/saving-and-updating-agents",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "schedule-callback",
+      "url": "https://developer.regal.ai/docs/schedule-callback",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "schedule-with-google-calendar",
+      "url": "https://developer.regal.ai/docs/schedule-with-google-calendar",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "schedule-with-outlook-calendar",
+      "url": "https://developer.regal.ai/docs/schedule-with-outlook-calendar",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "segment",
+      "url": "https://developer.regal.ai/docs/segment",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "send-custom-event-to-regal",
+      "url": "https://developer.regal.ai/docs/send-custom-event-to-regal",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "sendgrid",
+      "url": "https://developer.regal.ai/docs/sendgrid",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "simon-data",
+      "url": "https://developer.regal.ai/docs/simon-data",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "sip",
+      "url": "https://developer.regal.ai/docs/sip",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "slack",
+      "url": "https://developer.regal.ai/docs/slack",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "sms-agent-settings",
+      "url": "https://developer.regal.ai/docs/sms-agent-settings",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "snowflake-data-share",
+      "url": "https://developer.regal.ai/docs/snowflake-data-share",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "startstop-recording",
+      "url": "https://developer.regal.ai/docs/startstop-recording",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "store-locator",
+      "url": "https://developer.regal.ai/docs/store-locator",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "talkdesk",
+      "url": "https://developer.regal.ai/docs/talkdesk",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "test-cases-simulation",
+      "url": "https://developer.regal.ai/docs/test-cases-simulation",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "test-logic-chat",
+      "url": "https://developer.regal.ai/docs/test-logic-chat",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "transcription-search-dashboard",
+      "url": "https://developer.regal.ai/docs/transcription-search-dashboard",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "transfer-call-action",
+      "url": "https://developer.regal.ai/docs/transfer-call-action",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "triggered-outbound-calls",
+      "url": "https://developer.regal.ai/docs/triggered-outbound-calls",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "update-profile",
+      "url": "https://developer.regal.ai/docs/update-profile",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "using-regal-voice-events-in-reporting",
+      "url": "https://developer.regal.ai/docs/using-regal-voice-events-in-reporting",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "validate-us-zip-codes-for-smarter-routing-or-compliance",
+      "url": "https://developer.regal.ai/docs/validate-us-zip-codes-for-smarter-routing-or-compliance",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "voice-agent-settings",
+      "url": "https://developer.regal.ai/docs/voice-agent-settings",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "voice-settings",
+      "url": "https://developer.regal.ai/docs/voice-settings",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "voicemail-drop",
+      "url": "https://developer.regal.ai/docs/voicemail-drop",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "webcall-testing",
+      "url": "https://developer.regal.ai/docs/webcall-testing",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "what-is-regal",
+      "url": "https://developer.regal.ai/docs/what-is-regal",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "zapier",
+      "url": "https://developer.regal.ai/docs/zapier",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "zendesk",
+      "url": "https://developer.regal.ai/docs/zendesk",
+      "ok": true,
+      "error": null
+    },
+    {
+      "slug": "zoho",
+      "url": "https://developer.regal.ai/docs/zoho",
+      "ok": true,
+      "error": null
+    }
+  ]
+}
